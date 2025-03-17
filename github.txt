@@ -1,0 +1,22 @@
+git --version
+git config
+git init            #(chack a/t + v + h+ h)
+git status
+
+
+step 2
+git config --global user.name "username"
+git config --global user.email "email_id"
+
+git add github.txt
+
+git status
+
+git commit -m " any massage"
+#git commit -m "create a new file in github.txt"
+
+this commit chack use =>  git log
+# git log
+
+insert -> add -> commit -> push
+
